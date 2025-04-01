@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MARKETPLACEROV3/static/css/main.efbc8001.css",
+    "main.js": "/MARKETPLACEROV3/static/js/main.29cf53eb.js",
+    "static/js/453.8ab44547.chunk.js": "/MARKETPLACEROV3/static/js/453.8ab44547.chunk.js",
+    "index.html": "/MARKETPLACEROV3/index.html",
+    "main.efbc8001.css.map": "/MARKETPLACEROV3/static/css/main.efbc8001.css.map",
+    "main.29cf53eb.js.map": "/MARKETPLACEROV3/static/js/main.29cf53eb.js.map",
+    "453.8ab44547.chunk.js.map": "/MARKETPLACEROV3/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efbc8001.css",
+    "static/js/main.29cf53eb.js"
+  ]
+}
